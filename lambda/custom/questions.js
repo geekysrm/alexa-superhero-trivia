@@ -7,712 +7,712 @@ module.exports = {
    */
   QUESTIONS_EN_GB: [
     {
-      "What was the name of Mr. Crouch's house elf?": [
-        "Winky",
-        "Blinky",
-        "Slinky",
-        "Dobby"
+      "What is another name for Superman?": [
+        "The Man of Steel",
+        "The Red Redeemer",
+        "The Caped Crusader",
+        "The Masked Avenger"
       ]
     },
     {
-      "Who is the teacher who Harry thinks is working with Voldemort?": [
-        "Snape",
-        "Quirrell",
-        "Sprout",
-        "McGonagall"
+      "What is Superman's only weakness?": [
+        "Kryptonite",
+        "Samsonite",
+        "Plutonite",
+        "Cosmonite"
       ]
     },
     {
-      " Who taught History of Magic?": [
-        "Professor Binns",
-        "Professor Sinistra",
-        "Professor Flitwick",
-        "Professor Lupin"
+      "What is the name of Batman's secret identity?": [
+        "Bruce Wayne",
+        "Bruce Devon",
+        "The Dark Knight",
+        "Bruce Davis"
       ]
     },
     {
-      "What happens to Professor Lockhart?": [
-        "He loses his memory",
-        "He dies",
-        "He runs away",
+      "How did Spiderman get his superpowers?": [
+        "He was bitten by a radioactive spider.",
+        "He dies and takes a re birth",
+        "He was caught in a chemical explosion.",
         "He is fired"
       ]
     },
     {
-      " In which year (1-7) did Harry go on his first date with Cho Chang?": [
-        "5",
-        "4",
-        "6",
-        "3"
+      "This superhero's alter ego's name was Lamont Cranston, his show started on radio and eventually branched into comics and other media, and a well-known catchphrase from the show was, 'Who knows what evil lurks in the hearts of men?' Who is he?": [
+        "The Shadow",
+        "Diamond Don",
+        "The Thing",
+        "The Devastator"
       ]
     },
     {
-      "What did Dumbledore leave to Ron in his will? ": [
-        "The Deluminator",
-        "Fawkes the Phoenix",
-        "The golden snitch",
-        "The Tales of Beedle the Bard"
+      "Ant-Man has had a number of incarnations. Which of these was his first?": [
+        "Hank Pym",
+        "Mick Taylor",
+        "Scott Lang",
+        "Eric O'Grady"
       ]
     },
     {
-      "How old was Voldemort when he opened the Chamber of Secrets?": [
-        "16 years",
-        "17 years",
-        "18 years",
-        "21 years"
+      "Laura Barton was the wife of which of these Marvel heroes?": [
+        "Hawkeye",
+        "Moonstone",
+        "Paladin",
+        "Captain America"
       ]
     },
     {
-      "Who was the master of the Elder Wand prior to Harry?": [
-        "Draco Malfoy",
-        "Minerva McGonagall",
-        "Severus Snape",
-        "Lord Voldemort"
+      "A highly trained assassin of Greek descent, she becomes the love interest of Daredevil, who is she?": [
+        "Elektra",
+        "Eon",
+        "Elysius",
+        "Elixir"
       ]
     },
     {
-      "The group The Marauders were made up of Hogwarts students. Which of the options was James Potters nickname and Animagus form?": [
-        "Prongs, Stag",
-        "Potty, Llama",
-        "Hooves, Donkey",
-        "Moosey, Elk"
+      "He is able to manipulate energy based on the type of music he is listening to at the time. Who is he better known as?": [
+        "DJ",
+        "Doctor Spectrum",
+        "Domino",
+        "D'Ken"
       ]
     },
     {
-      "Which of these options was Peter Pettigrews nickname and Animagus form?": [
-        "Wormtail, Rat",
-        "Spaghettiback, Mouse",
-        "Fur-ears, Bat",
-        "Smallsnout, Chinchilla"
+      "Which Marvel Comics character was based on a creation by Mrs Shelley?": [
+        "Frankenstein's Monster",
+        "Falcon",
+        "Firebird",
+        "The Fixer"
       ]
     },
     {
-      "What colour are Harry Potters eyes?": ["Green", "Blue", "Black", "Brown"]
+      "Which Marvel character is sometimes referred to as the Planet Eater?": ["Galactus", "Galaxy Master", "Ganymede", "Gaia"]
     },
     {
-      "What was Remus Lupins nickname and Animagus form?": [
-        "Moony, Werewolf",
-        "Howly, Grey Wolf",
-        "Moony, Grey Wolf",
-        "Howly, Werewolf"
+      "Portrayed in films by Jon Favreau, Happy Hogan is usually a support character to which of the following?": [
+        "Iron Man",
+        "Black Panther",
+        "Captain America",
+        "Daredevil"
       ]
     },
     {
-      "What is the name of Ron and Hermione's daughter?": [
-        "Rose",
-        "Lily",
-        "Cardi",
-        "Hugo"
+      "He's been a regular in the X-Men universe and all he needs is a little bit of water vapour to invoke his powers, who is he?": [
+        "Ice Man",
+        "Impossible Man",
+        "Iso",
+        "Inertia"
       ]
     },
     {
-      "What is the name of Ron and Hermione's son?": [
-        "Hugo",
-        "Ron Junior",
-        "Remus",
-        "Neville"
+      "In the Spider Man universe who is the editor-in-chief of the newspaper, The Daily Bugle, who employs Peter Parker as a photographer?": [
+        "J. Jonah Jameson",
+        "Barry O'Hanlon",
+        "Augustus Haynes",
+        "Perry White"
       ]
     },
     {
-      "Which is the house ghost of Hufflepuff?": [
-        "The Fat Friar",
-        "The Bloody Baron",
-        "The Grey Lady",
-        "Nearly Headless Nick"
+      "Wilson Fisk, also known as Kingpin, is the most feared crime lord in the Marvel universe. He made his first appearance in which character's strip?": [
+        "Spider Man",
+        "Hulk",
+        "Iron Man",
+        "Thor"
       ]
     },
     {
-      "Which champion is the only one to die in the 1994-1995 Triwizard Tournament?": [
-        "Cedric Diggory",
-        "Harry Potter",
-        "Fleur Delacour",
-        "Viktor Krum"
+      "Originally published in Marvel's predecessor Atlas Comics, who was proclaimed to be the Queen of the Jungle?": [
+        "Lorna",
+        "Lorelei",
+        "Lucy",
+        "Lani"
       ]
     },
     {
-      "Who was NOT a member of the 'Slug Club'?": [
-        "Ron",
-        "Harry",
-        "Hermione",
-        "Melinda"
+      "What was the birthname of the powerful Marvel mutant Magneto?": [
+        "Max Eisenhardt",
+        "Malcolm Gregory",
+        "Sandy Stalmaster",
+        "Louis Sadler Jr."
       ]
     },
     {
-      "Which type of magical creature carries Sirius Black away from Hogwarts?": [
-        "Hippogriff",
-        "Thestral",
-        "Unicorn",
-        "Dragon"
+      "Blackjack O'Hare appears as an adversary to which anthropomorphic creature, a Guardian of the Galaxy?": [
+        "Rocket Raccoon",
+        "Gunslinger Goanna",
+        "Manslaughter Mouse",
+        "Ballistic Badger"
       ]
     },
     {
-      "Which is NOT a shop in Diagon Alley?": [
-        "Honeydukes",
-        "Madam Malkin's Robes for All Occasions",
-        "Flourish & Blott's",
-        "Eeylops Owl Emporium"
+      "Francis Frank Castle, anguished by the murder of his wife and two children turns vigilante and becomes known as which of the following?": [
+        "Punisher",
+        "Peace Monger",
+        "Phantom Rider",
+        "Patriot"
       ]
     },
     {
-      "Which of the following is NOT a protection for the Philosopher's (Sorcerer's) Stone?": [
-        "Cornish Pixies",
-        "Wizard's Chess ",
-        "Devil's Snare",
-        "Mirror of Erised"
+      "Pietro Maximoff is known in the Marvel universe as Quicksilver, but which notable adversary of the X-Men proves to be his father?": [
+        "Magneto",
+        "Juggernaut",
+        "Pyro",
+        "Sabretooth"
       ]
     },
     {
-      "Which of the following was NOT a Death Eater?": [
-        "Bathilda Bagshot",
-        "Lucius Malfoy",
-        "Draco Malfoy",
-        "Bellatrix Lestrange"
+      "Portrayed on the screen by Stellan Skarsgard, Eric Selvig, who becomes involved with the agency known as S.H.I.E.L.D. first appears in which Marvel franchise?": [
+        "Thor",
+        "Hulk",
+        "Ant Man",
+        "Spider Man"
       ]
     },
     {
-      "How many broomsticks are flown in a full game of Quidditch?": [
-        "15",
-        "16",
-        "18",
-        "25"
+      "He made his first appearance in Marvel circles as the Crimson Cowl and became the subject of an Avenger's movie in 2015. Who is he?": [
+        "Ultron",
+        "Ultimaton",
+        "Unus the Untouchable",
+        "Unspoken"
       ]
     },
     {
-      "Which Polyjuice Potion ingredients must be acquired at the full moon?": [
-        "Fluxweed",
-        "Knotgrass",
-        "A bit of whoever you wish to turn into",
-        "Newt spleen"
+      "What is the name of the alien Symbiote that appears in liquid form searching for a host, and its first known host in Marvel's world is the Spider man?": [
+        "Venom",
+        "Vapor",
+        "Valkyrie",
+        "Veil"
       ]
     },
     {
-      "Before using the Firebolt gifted to him in The Prisoner of Azkaban, Harry Potter flew on which of these broomstick models?": [
-        "Nimbus 2000",
-        "Cleansweep Eleven",
-        "Moontrimmer",
-        "Thunderbolt VII"
+      "He's an antihero that first appeared on Marvel's pages in 1974, he has powerful regenerative powers, was born James Howlett and has been an X-Man and an Avenger. Who is he?": [
+        "Wolverine",
+        "Wild Thing",
+        "Wolfsbane",
+        "Windeagle"
       ]
     },
     {
-      "The Goblins of Gringotts Wizarding Bank navigate the vaults of their establishment using which of these modes of transportation?": [
-        "Mine cart",
-        "Elevator",
-        "Magic carpet",
-        "Monorail"
+      "In his career Dr. Hank Pym has had a number of different superhero identities; Ant Man, Giant Man, Goliath, the Wasp and which other little stinger?": [
+        "Yellowjacket",
+        "Yellowclaw",
+        "Yamir",
+        "Yondu"
       ]
     },
     {
-      "What person from the Wizarding World does Harry discover living just down the road?": [
-        "Mrs. Figg",
-        "Tonks",
-        "Filch",
-        "Susan Bones"
+      "The first major Marvel/DC crossover was Superman vs. Spider-Man, back in Marvel Treasury Edition no. 28 (1976). Which character did NOT appear in that milestone issue?": [
+        "Lana Lang",
+        "Lex Luthor",
+        "Mary Jane Watson",
+        "Doctor Octopus"
       ]
     },
     {
-      "Floo Powder, as a substance, allows users to travel by which means (as seen in The Chamber of Secrets)?": [
-        "Through fireplaces",
-        "Inside animals",
-        "n the wind",
-        "Through the sewers"
+      "My civilian name is Barry Allen. I'm a police scientist. My alter ego only has one power, but what DC writers and artists did with that one power was something to behold. Who am I?": [
+        "The Flash",
+        "Green Lantern",
+        "The Atom",
+        "Hawkman"
       ]
     },
     {
-      "Who or what attacks Ron in the Ministry of Magic?": [
-        "a brain",
-        "a Time-turner",
-        "Bellatrix",
-        "Dolohov"
+      "J'onn J'onzz was the name of a friendly visitor from a planet in our solar system. What was his alter ego on Earth?": [
+        "The Martian Manhunter",
+        "The Jovian Genie",
+        "The Saturnian Saber Rattler",
+        "The Plutonian Pimpernel"
       ]
     },
     {
-      "The Knight Bus, used by Harry in The Prisoner of Azkaban, contains how many levels?": [
-        "3",
-        "2",
-        "5",
-        "1"
+      "What planet and city did Adam Strange zap to when he was hit by the interstellar transporting zeta beam in Mystery In Space?": [
+        "Rann and Ranagar",
+        "Zann and Zanagar",
+        "Mong and Mongopolis",
+        "Krypton and Kandor"
       ]
     },
     {
-      "Half eagle and half horse, what creature is ridden by Harry and Hermione in The Prisoner of Azkaban after saving its life?": [
-        "Hippogriff",
-        "Centaur",
-        "Dragon",
-        "Griffin"
+      "What did Superman use to open the door of his Fortress of Solitude?": [
+        "An enormous, yellow, arrow-shaped key.",
+        "A hidden remote control.",
+        "His own super-whistle.",
+        "A multi-tonal sonic key."
       ]
     }
   ],
   QUESTIONS_EN_US: [
     {
-      "What was the name of Mr. Crouch's house elf?": [
-        "Winky",
-        "Blinky",
-        "Slinky",
-        "Dobby"
+      "What is another name for Superman?": [
+        "The Man of Steel",
+        "The Red Redeemer",
+        "The Caped Crusader",
+        "The Masked Avenger"
       ]
     },
     {
-      "Who is the teacher who Harry thinks is working with Voldemort?": [
-        "Snape",
-        "Quirrell",
-        "Sprout",
-        "McGonagall"
+      "What is Superman's only weakness?": [
+        "Kryptonite",
+        "Samsonite",
+        "Plutonite",
+        "Cosmonite"
       ]
     },
     {
-      " Who taught History of Magic?": [
-        "Professor Binns",
-        "Professor Sinistra",
-        "Professor Flitwick",
-        "Professor Lupin"
+      "What is the name of Batman's secret identity?": [
+        "Bruce Wayne",
+        "Bruce Devon",
+        "The Dark Knight",
+        "Bruce Davis"
       ]
     },
     {
-      "What happens to Professor Lockhart?": [
-        "He loses his memory",
-        "He dies",
-        "He runs away",
+      "How did Spiderman get his superpowers?": [
+        "He was bitten by a radioactive spider.",
+        "He dies and takes a re birth",
+        "He was caught in a chemical explosion.",
         "He is fired"
       ]
     },
     {
-      " In which year (1-7) did Harry go on his first date with Cho Chang?": [
-        "5",
-        "4",
-        "6",
-        "3"
+      "This superhero's alter ego's name was Lamont Cranston, his show started on radio and eventually branched into comics and other media, and a well-known catchphrase from the show was, 'Who knows what evil lurks in the hearts of men?' Who is he?": [
+        "The Shadow",
+        "Diamond Don",
+        "The Thing",
+        "The Devastator"
       ]
     },
     {
-      "What did Dumbledore leave to Ron in his will? ": [
-        "The Deluminator",
-        "Fawkes the Phoenix",
-        "The golden snitch",
-        "The Tales of Beedle the Bard"
+      "Ant-Man has had a number of incarnations. Which of these was his first?": [
+        "Hank Pym",
+        "Mick Taylor",
+        "Scott Lang",
+        "Eric O'Grady"
       ]
     },
     {
-      "How old was Voldemort when he opened the Chamber of Secrets?": [
-        "16 years",
-        "17 years",
-        "18 years",
-        "21 years"
+      "Laura Barton was the wife of which of these Marvel heroes?": [
+        "Hawkeye",
+        "Moonstone",
+        "Paladin",
+        "Captain America"
       ]
     },
     {
-      "Who was the master of the Elder Wand prior to Harry?": [
-        "Draco Malfoy",
-        "Minerva McGonagall",
-        "Severus Snape",
-        "Lord Voldemort"
+      "A highly trained assassin of Greek descent, she becomes the love interest of Daredevil, who is she?": [
+        "Elektra",
+        "Eon",
+        "Elysius",
+        "Elixir"
       ]
     },
     {
-      "The group The Marauders were made up of Hogwarts students. Which of the options was James Potters nickname and Animagus form?": [
-        "Prongs, Stag",
-        "Potty, Llama",
-        "Hooves, Donkey",
-        "Moosey, Elk"
+      "He is able to manipulate energy based on the type of music he is listening to at the time. Who is he better known as?": [
+        "DJ",
+        "Doctor Spectrum",
+        "Domino",
+        "D'Ken"
       ]
     },
     {
-      "Which of these options was Peter Pettigrews nickname and Animagus form?": [
-        "Wormtail, Rat",
-        "Spaghettiback, Mouse",
-        "Fur-ears, Bat",
-        "Smallsnout, Chinchilla"
+      "Which Marvel Comics character was based on a creation by Mrs Shelley?": [
+        "Frankenstein's Monster",
+        "Falcon",
+        "Firebird",
+        "The Fixer"
       ]
     },
     {
-      "What colour are Harry Potters eyes?": ["Green", "Blue", "Black", "Brown"]
+      "Which Marvel character is sometimes referred to as the Planet Eater?": ["Galactus", "Galaxy Master", "Ganymede", "Gaia"]
     },
     {
-      "What was Remus Lupins nickname and Animagus form?": [
-        "Moony, Werewolf",
-        "Howly, Grey Wolf",
-        "Moony, Grey Wolf",
-        "Howly, Werewolf"
+      "Portrayed in films by Jon Favreau, Happy Hogan is usually a support character to which of the following?": [
+        "Iron Man",
+        "Black Panther",
+        "Captain America",
+        "Daredevil"
       ]
     },
     {
-      "What is the name of Ron and Hermione's daughter?": [
-        "Rose",
-        "Lily",
-        "Cardi",
-        "Hugo"
+      "He's been a regular in the X-Men universe and all he needs is a little bit of water vapour to invoke his powers, who is he?": [
+        "Ice Man",
+        "Impossible Man",
+        "Iso",
+        "Inertia"
       ]
     },
     {
-      "What is the name of Ron and Hermione's son?": [
-        "Hugo",
-        "Ron Junior",
-        "Remus",
-        "Neville"
+      "In the Spider Man universe who is the editor-in-chief of the newspaper, The Daily Bugle, who employs Peter Parker as a photographer?": [
+        "J. Jonah Jameson",
+        "Barry O'Hanlon",
+        "Augustus Haynes",
+        "Perry White"
       ]
     },
     {
-      "Which is the house ghost of Hufflepuff?": [
-        "The Fat Friar",
-        "The Bloody Baron",
-        "The Grey Lady",
-        "Nearly Headless Nick"
+      "Wilson Fisk, also known as Kingpin, is the most feared crime lord in the Marvel universe. He made his first appearance in which character's strip?": [
+        "Spider Man",
+        "Hulk",
+        "Iron Man",
+        "Thor"
       ]
     },
     {
-      "Which champion is the only one to die in the 1994-1995 Triwizard Tournament?": [
-        "Cedric Diggory",
-        "Harry Potter",
-        "Fleur Delacour",
-        "Viktor Krum"
+      "Originally published in Marvel's predecessor Atlas Comics, who was proclaimed to be the Queen of the Jungle?": [
+        "Lorna",
+        "Lorelei",
+        "Lucy",
+        "Lani"
       ]
     },
     {
-      "Who was NOT a member of the 'Slug Club'?": [
-        "Ron",
-        "Harry",
-        "Hermione",
-        "Melinda"
+      "What was the birthname of the powerful Marvel mutant Magneto?": [
+        "Max Eisenhardt",
+        "Malcolm Gregory",
+        "Sandy Stalmaster",
+        "Louis Sadler Jr."
       ]
     },
     {
-      "Which type of magical creature carries Sirius Black away from Hogwarts?": [
-        "Hippogriff",
-        "Thestral",
-        "Unicorn",
-        "Dragon"
+      "Blackjack O'Hare appears as an adversary to which anthropomorphic creature, a Guardian of the Galaxy?": [
+        "Rocket Raccoon",
+        "Gunslinger Goanna",
+        "Manslaughter Mouse",
+        "Ballistic Badger"
       ]
     },
     {
-      "Which is NOT a shop in Diagon Alley?": [
-        "Honeydukes",
-        "Madam Malkin's Robes for All Occasions",
-        "Flourish & Blott's",
-        "Eeylops Owl Emporium"
+      "Francis Frank Castle, anguished by the murder of his wife and two children turns vigilante and becomes known as which of the following?": [
+        "Punisher",
+        "Peace Monger",
+        "Phantom Rider",
+        "Patriot"
       ]
     },
     {
-      "Which of the following is NOT a protection for the Philosopher's (Sorcerer's) Stone?": [
-        "Cornish Pixies",
-        "Wizard's Chess ",
-        "Devil's Snare",
-        "Mirror of Erised"
+      "Pietro Maximoff is known in the Marvel universe as Quicksilver, but which notable adversary of the X-Men proves to be his father?": [
+        "Magneto",
+        "Juggernaut",
+        "Pyro",
+        "Sabretooth"
       ]
     },
     {
-      "Which of the following was NOT a Death Eater?": [
-        "Bathilda Bagshot",
-        "Lucius Malfoy",
-        "Draco Malfoy",
-        "Bellatrix Lestrange"
+      "Portrayed on the screen by Stellan Skarsgard, Eric Selvig, who becomes involved with the agency known as S.H.I.E.L.D. first appears in which Marvel franchise?": [
+        "Thor",
+        "Hulk",
+        "Ant Man",
+        "Spider Man"
       ]
     },
     {
-      "How many broomsticks are flown in a full game of Quidditch?": [
-        "15",
-        "16",
-        "18",
-        "25"
+      "He made his first appearance in Marvel circles as the Crimson Cowl and became the subject of an Avenger's movie in 2015. Who is he?": [
+        "Ultron",
+        "Ultimaton",
+        "Unus the Untouchable",
+        "Unspoken"
       ]
     },
     {
-      "Which Polyjuice Potion ingredients must be acquired at the full moon?": [
-        "Fluxweed",
-        "Knotgrass",
-        "A bit of whoever you wish to turn into",
-        "Newt spleen"
+      "What is the name of the alien Symbiote that appears in liquid form searching for a host, and its first known host in Marvel's world is the Spider man?": [
+        "Venom",
+        "Vapor",
+        "Valkyrie",
+        "Veil"
       ]
     },
     {
-      "Before using the Firebolt gifted to him in The Prisoner of Azkaban, Harry Potter flew on which of these broomstick models?": [
-        "Nimbus 2000",
-        "Cleansweep Eleven",
-        "Moontrimmer",
-        "Thunderbolt VII"
+      "He's an antihero that first appeared on Marvel's pages in 1974, he has powerful regenerative powers, was born James Howlett and has been an X-Man and an Avenger. Who is he?": [
+        "Wolverine",
+        "Wild Thing",
+        "Wolfsbane",
+        "Windeagle"
       ]
     },
     {
-      "The Goblins of Gringotts Wizarding Bank navigate the vaults of their establishment using which of these modes of transportation?": [
-        "Mine cart",
-        "Elevator",
-        "Magic carpet",
-        "Monorail"
+      "In his career Dr. Hank Pym has had a number of different superhero identities; Ant Man, Giant Man, Goliath, the Wasp and which other little stinger?": [
+        "Yellowjacket",
+        "Yellowclaw",
+        "Yamir",
+        "Yondu"
       ]
     },
     {
-      "What person from the Wizarding World does Harry discover living just down the road?": [
-        "Mrs. Figg",
-        "Tonks",
-        "Filch",
-        "Susan Bones"
+      "The first major Marvel/DC crossover was Superman vs. Spider-Man, back in Marvel Treasury Edition no. 28 (1976). Which character did NOT appear in that milestone issue?": [
+        "Lana Lang",
+        "Lex Luthor",
+        "Mary Jane Watson",
+        "Doctor Octopus"
       ]
     },
     {
-      "Floo Powder, as a substance, allows users to travel by which means (as seen in The Chamber of Secrets)?": [
-        "Through fireplaces",
-        "Inside animals",
-        "n the wind",
-        "Through the sewers"
+      "My civilian name is Barry Allen. I'm a police scientist. My alter ego only has one power, but what DC writers and artists did with that one power was something to behold. Who am I?": [
+        "The Flash",
+        "Green Lantern",
+        "The Atom",
+        "Hawkman"
       ]
     },
     {
-      "Who or what attacks Ron in the Ministry of Magic?": [
-        "a brain",
-        "a Time-turner",
-        "Bellatrix",
-        "Dolohov"
+      "J'onn J'onzz was the name of a friendly visitor from a planet in our solar system. What was his alter ego on Earth?": [
+        "The Martian Manhunter",
+        "The Jovian Genie",
+        "The Saturnian Saber Rattler",
+        "The Plutonian Pimpernel"
       ]
     },
     {
-      "The Knight Bus, used by Harry in The Prisoner of Azkaban, contains how many levels?": [
-        "3",
-        "2",
-        "5",
-        "1"
+      "What planet and city did Adam Strange zap to when he was hit by the interstellar transporting zeta beam in Mystery In Space?": [
+        "Rann and Ranagar",
+        "Zann and Zanagar",
+        "Mong and Mongopolis",
+        "Krypton and Kandor"
       ]
     },
     {
-      "Half eagle and half horse, what creature is ridden by Harry and Hermione in The Prisoner of Azkaban after saving its life?": [
-        "Hippogriff",
-        "Centaur",
-        "Dragon",
-        "Griffin"
+      "What did Superman use to open the door of his Fortress of Solitude?": [
+        "An enormous, yellow, arrow-shaped key.",
+        "A hidden remote control.",
+        "His own super-whistle.",
+        "A multi-tonal sonic key."
       ]
     }
   ],
   QUESTIONS_EN_IN: [
     {
-      "What was the name of Mr. Crouch's house elf?": [
-        "Winky",
-        "Blinky",
-        "Slinky",
-        "Dobby"
+      "What is another name for Superman?": [
+        "The Man of Steel",
+        "The Red Redeemer",
+        "The Caped Crusader",
+        "The Masked Avenger"
       ]
     },
     {
-      "Who is the teacher who Harry thinks is working with Voldemort?": [
-        "Snape",
-        "Quirrell",
-        "Sprout",
-        "McGonagall"
+      "What is Superman's only weakness?": [
+        "Kryptonite",
+        "Samsonite",
+        "Plutonite",
+        "Cosmonite"
       ]
     },
     {
-      " Who taught History of Magic?": [
-        "Professor Binns",
-        "Professor Sinistra",
-        "Professor Flitwick",
-        "Professor Lupin"
+      "What is the name of Batman's secret identity?": [
+        "Bruce Wayne",
+        "Bruce Devon",
+        "The Dark Knight",
+        "Bruce Davis"
       ]
     },
     {
-      "What happens to Professor Lockhart?": [
-        "He loses his memory",
-        "He dies",
-        "He runs away",
+      "How did Spiderman get his superpowers?": [
+        "He was bitten by a radioactive spider.",
+        "He dies and takes a re birth",
+        "He was caught in a chemical explosion.",
         "He is fired"
       ]
     },
     {
-      " In which year (1-7) did Harry go on his first date with Cho Chang?": [
-        "5",
-        "4",
-        "6",
-        "3"
+      "This superhero's alter ego's name was Lamont Cranston, his show started on radio and eventually branched into comics and other media, and a well-known catchphrase from the show was, 'Who knows what evil lurks in the hearts of men?' Who is he?": [
+        "The Shadow",
+        "Diamond Don",
+        "The Thing",
+        "The Devastator"
       ]
     },
     {
-      "What did Dumbledore leave to Ron in his will? ": [
-        "The Deluminator",
-        "Fawkes the Phoenix",
-        "The golden snitch",
-        "The Tales of Beedle the Bard"
+      "Ant-Man has had a number of incarnations. Which of these was his first?": [
+        "Hank Pym",
+        "Mick Taylor",
+        "Scott Lang",
+        "Eric O'Grady"
       ]
     },
     {
-      "How old was Voldemort when he opened the Chamber of Secrets?": [
-        "16 years",
-        "17 years",
-        "18 years",
-        "21 years"
+      "Laura Barton was the wife of which of these Marvel heroes?": [
+        "Hawkeye",
+        "Moonstone",
+        "Paladin",
+        "Captain America"
       ]
     },
     {
-      "Who was the master of the Elder Wand prior to Harry?": [
-        "Draco Malfoy",
-        "Minerva McGonagall",
-        "Severus Snape",
-        "Lord Voldemort"
+      "A highly trained assassin of Greek descent, she becomes the love interest of Daredevil, who is she?": [
+        "Elektra",
+        "Eon",
+        "Elysius",
+        "Elixir"
       ]
     },
     {
-      "The group The Marauders were made up of Hogwarts students. Which of the options was James Potters nickname and Animagus form?": [
-        "Prongs, Stag",
-        "Potty, Llama",
-        "Hooves, Donkey",
-        "Moosey, Elk"
+      "He is able to manipulate energy based on the type of music he is listening to at the time. Who is he better known as?": [
+        "DJ",
+        "Doctor Spectrum",
+        "Domino",
+        "D'Ken"
       ]
     },
     {
-      "Which of these options was Peter Pettigrews nickname and Animagus form?": [
-        "Wormtail, Rat",
-        "Spaghettiback, Mouse",
-        "Fur-ears, Bat",
-        "Smallsnout, Chinchilla"
+      "Which Marvel Comics character was based on a creation by Mrs Shelley?": [
+        "Frankenstein's Monster",
+        "Falcon",
+        "Firebird",
+        "The Fixer"
       ]
     },
     {
-      "What colour are Harry Potters eyes?": ["Green", "Blue", "Black", "Brown"]
+      "Which Marvel character is sometimes referred to as the Planet Eater?": ["Galactus", "Galaxy Master", "Ganymede", "Gaia"]
     },
     {
-      "What was Remus Lupins nickname and Animagus form?": [
-        "Moony, Werewolf",
-        "Howly, Grey Wolf",
-        "Moony, Grey Wolf",
-        "Howly, Werewolf"
+      "Portrayed in films by Jon Favreau, Happy Hogan is usually a support character to which of the following?": [
+        "Iron Man",
+        "Black Panther",
+        "Captain America",
+        "Daredevil"
       ]
     },
     {
-      "What is the name of Ron and Hermione's daughter?": [
-        "Rose",
-        "Lily",
-        "Cardi",
-        "Hugo"
+      "He's been a regular in the X-Men universe and all he needs is a little bit of water vapour to invoke his powers, who is he?": [
+        "Ice Man",
+        "Impossible Man",
+        "Iso",
+        "Inertia"
       ]
     },
     {
-      "What is the name of Ron and Hermione's son?": [
-        "Hugo",
-        "Ron Junior",
-        "Remus",
-        "Neville"
+      "In the Spider Man universe who is the editor-in-chief of the newspaper, The Daily Bugle, who employs Peter Parker as a photographer?": [
+        "J. Jonah Jameson",
+        "Barry O'Hanlon",
+        "Augustus Haynes",
+        "Perry White"
       ]
     },
     {
-      "Which is the house ghost of Hufflepuff?": [
-        "The Fat Friar",
-        "The Bloody Baron",
-        "The Grey Lady",
-        "Nearly Headless Nick"
+      "Wilson Fisk, also known as Kingpin, is the most feared crime lord in the Marvel universe. He made his first appearance in which character's strip?": [
+        "Spider Man",
+        "Hulk",
+        "Iron Man",
+        "Thor"
       ]
     },
     {
-      "Which champion is the only one to die in the 1994-1995 Triwizard Tournament?": [
-        "Cedric Diggory",
-        "Harry Potter",
-        "Fleur Delacour",
-        "Viktor Krum"
+      "Originally published in Marvel's predecessor Atlas Comics, who was proclaimed to be the Queen of the Jungle?": [
+        "Lorna",
+        "Lorelei",
+        "Lucy",
+        "Lani"
       ]
     },
     {
-      "Who was NOT a member of the 'Slug Club'?": [
-        "Ron",
-        "Harry",
-        "Hermione",
-        "Melinda"
+      "What was the birthname of the powerful Marvel mutant Magneto?": [
+        "Max Eisenhardt",
+        "Malcolm Gregory",
+        "Sandy Stalmaster",
+        "Louis Sadler Jr."
       ]
     },
     {
-      "Which type of magical creature carries Sirius Black away from Hogwarts?": [
-        "Hippogriff",
-        "Thestral",
-        "Unicorn",
-        "Dragon"
+      "Blackjack O'Hare appears as an adversary to which anthropomorphic creature, a Guardian of the Galaxy?": [
+        "Rocket Raccoon",
+        "Gunslinger Goanna",
+        "Manslaughter Mouse",
+        "Ballistic Badger"
       ]
     },
     {
-      "Which is NOT a shop in Diagon Alley?": [
-        "Honeydukes",
-        "Madam Malkin's Robes for All Occasions",
-        "Flourish & Blott's",
-        "Eeylops Owl Emporium"
+      "Francis Frank Castle, anguished by the murder of his wife and two children turns vigilante and becomes known as which of the following?": [
+        "Punisher",
+        "Peace Monger",
+        "Phantom Rider",
+        "Patriot"
       ]
     },
     {
-      "Which of the following is NOT a protection for the Philosopher's (Sorcerer's) Stone?": [
-        "Cornish Pixies",
-        "Wizard's Chess ",
-        "Devil's Snare",
-        "Mirror of Erised"
+      "Pietro Maximoff is known in the Marvel universe as Quicksilver, but which notable adversary of the X-Men proves to be his father?": [
+        "Magneto",
+        "Juggernaut",
+        "Pyro",
+        "Sabretooth"
       ]
     },
     {
-      "Which of the following was NOT a Death Eater?": [
-        "Bathilda Bagshot",
-        "Lucius Malfoy",
-        "Draco Malfoy",
-        "Bellatrix Lestrange"
+      "Portrayed on the screen by Stellan Skarsgard, Eric Selvig, who becomes involved with the agency known as S.H.I.E.L.D. first appears in which Marvel franchise?": [
+        "Thor",
+        "Hulk",
+        "Ant Man",
+        "Spider Man"
       ]
     },
     {
-      "How many broomsticks are flown in a full game of Quidditch?": [
-        "15",
-        "16",
-        "18",
-        "25"
+      "He made his first appearance in Marvel circles as the Crimson Cowl and became the subject of an Avenger's movie in 2015. Who is he?": [
+        "Ultron",
+        "Ultimaton",
+        "Unus the Untouchable",
+        "Unspoken"
       ]
     },
     {
-      "Which Polyjuice Potion ingredients must be acquired at the full moon?": [
-        "Fluxweed",
-        "Knotgrass",
-        "A bit of whoever you wish to turn into",
-        "Newt spleen"
+      "What is the name of the alien Symbiote that appears in liquid form searching for a host, and its first known host in Marvel's world is the Spider man?": [
+        "Venom",
+        "Vapor",
+        "Valkyrie",
+        "Veil"
       ]
     },
     {
-      "Before using the Firebolt gifted to him in The Prisoner of Azkaban, Harry Potter flew on which of these broomstick models?": [
-        "Nimbus 2000",
-        "Cleansweep Eleven",
-        "Moontrimmer",
-        "Thunderbolt VII"
+      "He's an antihero that first appeared on Marvel's pages in 1974, he has powerful regenerative powers, was born James Howlett and has been an X-Man and an Avenger. Who is he?": [
+        "Wolverine",
+        "Wild Thing",
+        "Wolfsbane",
+        "Windeagle"
       ]
     },
     {
-      "The Goblins of Gringotts Wizarding Bank navigate the vaults of their establishment using which of these modes of transportation?": [
-        "Mine cart",
-        "Elevator",
-        "Magic carpet",
-        "Monorail"
+      "In his career Dr. Hank Pym has had a number of different superhero identities; Ant Man, Giant Man, Goliath, the Wasp and which other little stinger?": [
+        "Yellowjacket",
+        "Yellowclaw",
+        "Yamir",
+        "Yondu"
       ]
     },
     {
-      "What person from the Wizarding World does Harry discover living just down the road?": [
-        "Mrs. Figg",
-        "Tonks",
-        "Filch",
-        "Susan Bones"
+      "The first major Marvel/DC crossover was Superman vs. Spider-Man, back in Marvel Treasury Edition no. 28 (1976). Which character did NOT appear in that milestone issue?": [
+        "Lana Lang",
+        "Lex Luthor",
+        "Mary Jane Watson",
+        "Doctor Octopus"
       ]
     },
     {
-      "Floo Powder, as a substance, allows users to travel by which means (as seen in The Chamber of Secrets)?": [
-        "Through fireplaces",
-        "Inside animals",
-        "n the wind",
-        "Through the sewers"
+      "My civilian name is Barry Allen. I'm a police scientist. My alter ego only has one power, but what DC writers and artists did with that one power was something to behold. Who am I?": [
+        "The Flash",
+        "Green Lantern",
+        "The Atom",
+        "Hawkman"
       ]
     },
     {
-      "Who or what attacks Ron in the Ministry of Magic?": [
-        "a brain",
-        "a Time-turner",
-        "Bellatrix",
-        "Dolohov"
+      "J'onn J'onzz was the name of a friendly visitor from a planet in our solar system. What was his alter ego on Earth?": [
+        "The Martian Manhunter",
+        "The Jovian Genie",
+        "The Saturnian Saber Rattler",
+        "The Plutonian Pimpernel"
       ]
     },
     {
-      "The Knight Bus, used by Harry in The Prisoner of Azkaban, contains how many levels?": [
-        "3",
-        "2",
-        "5",
-        "1"
+      "What planet and city did Adam Strange zap to when he was hit by the interstellar transporting zeta beam in Mystery In Space?": [
+        "Rann and Ranagar",
+        "Zann and Zanagar",
+        "Mong and Mongopolis",
+        "Krypton and Kandor"
       ]
     },
     {
-      "Half eagle and half horse, what creature is ridden by Harry and Hermione in The Prisoner of Azkaban after saving its life?": [
-        "Hippogriff",
-        "Centaur",
-        "Dragon",
-        "Griffin"
+      "What did Superman use to open the door of his Fortress of Solitude?": [
+        "An enormous, yellow, arrow-shaped key.",
+        "A hidden remote control.",
+        "His own super-whistle.",
+        "A multi-tonal sonic key."
       ]
     }
   ]
